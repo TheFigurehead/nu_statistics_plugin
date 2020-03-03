@@ -1,0 +1,15 @@
+/**
+ * All of the CSS for your admin-specific functionality should be
+ * included in this file.
+ */
+
+ .postbox-container {
+    background-color: #e6e6e6;
+    border: 1px solid;
+}
+.nu_dashboard_widgets{
+    display: flex;
+}
+#dashboard-widgets.nu_dashboard_widgets .meta-box-sortables{
+    margin: 0;
+}
